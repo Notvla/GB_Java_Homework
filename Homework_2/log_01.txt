@@ -1,0 +1,18 @@
+дек. 06, 2022 3:48:17 PM Homework_2.Homework2_1 main
+SEVERE: Задали массив случайных чисел
+дек. 06, 2022 3:48:17 PM Homework_2.Homework2_1 main
+SEVERE: Итерация номер 1  Массив -> 53 79 82 53 
+дек. 06, 2022 3:48:17 PM Homework_2.Homework2_1 main
+SEVERE: Итерация номер 2  Массив -> 53 79 53 82 
+дек. 06, 2022 3:48:17 PM Homework_2.Homework2_1 main
+SEVERE: Итерация номер 3  Массив -> 53 53 79 82 
+дек. 06, 2022 3:48:45 PM Homework_2.Homework2_1 main
+SEVERE: Задали массив случайных чисел
+дек. 06, 2022 3:48:45 PM Homework_2.Homework2_1 main
+SEVERE: Итерация номер 1  Массив -> 43 27 15 21 16 58 34 63 87 
+дек. 06, 2022 3:48:45 PM Homework_2.Homework2_1 main
+SEVERE: Итерация номер 2  Массив -> 27 15 21 16 43 34 58 63 87 
+дек. 06, 2022 3:48:45 PM Homework_2.Homework2_1 main
+SEVERE: Итерация номер 3  Массив -> 15 21 16 27 34 43 58 63 87 
+дек. 06, 2022 3:48:45 PM Homework_2.Homework2_1 main
+SEVERE: Итерация номер 4  Массив -> 15 16 21 27 34 43 58 63 87 
